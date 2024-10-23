@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Saddam Saku 👋
 
 I'm a software engineer passionate about building scalable web applications and diving deep into machine learning. My core focus is delivering robust solutions in both software development and AI.
 
@@ -6,7 +6,7 @@ I'm a software engineer passionate about building scalable web applications and 
 
 - **Languages**: Python, JavaScript, C#
 - **Frameworks & Libraries**: Laravel, NodeJS, React, FastAPI
-- **Machine Learning Tools**: Keras, Scikit-learn
+- **Machine Learning Tools**: Tensorflow,Keras, Scikit-learn
 
 ## 🌟 Key Projects
 
@@ -24,7 +24,7 @@ I'm a software engineer passionate about building scalable web applications and 
 
 ## 🚀 Portfolio
 
-Check out my [portfolio](https://your-github-username.github.io/) for more projects and details.
+Check out my [portfolio](https://SaddamTechie.github.io/) for more projects and details.
 
 ## 🌱 Currently Learning
 
@@ -37,8 +37,8 @@ I’m currently learning more about Natural Language Processing (NLP) to enhance
 
 ## 🏅 Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaddamTechie&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?SaddamTechie&layout=compact&theme=radical)
 
 <!-- Add more badges like contributions, coding streak, etc., as needed -->
 
