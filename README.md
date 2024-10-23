@@ -38,7 +38,7 @@ I’m currently learning more about Natural Language Processing (NLP) to enhance
 ## 🏅 Badges
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaddamTechie&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?=usernameSaddamTechie&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamTechie&layout=compact&theme=radical)
 
 <!-- Add more badges like contributions, coding streak, etc., as needed -->
 
