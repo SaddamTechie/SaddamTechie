@@ -32,8 +32,8 @@ I’m currently learning more about Natural Language Processing (NLP) to enhance
 
 ## 📫 How to Reach Me
 
-- LinkedIn: **[Link to LinkedIn]** (coming soon)
-- Twitter: **[Link to Twitter]** (coming soon)
+- LinkedIn:**[https://www.linkedin.com/in/saddam-saku-8199b532b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]** 
+- Twitter: **[https://x.com/saddam_dev?t=tQedyTczGDVXk8MHLXviMQ&s=09]** 
 
 ## 🏅 Badges
 
