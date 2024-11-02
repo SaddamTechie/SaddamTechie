@@ -32,8 +32,8 @@ I’m currently learning more about Natural Language Processing (NLP) to enhance
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/saddam-saku-8199b532b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![X](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png&color=FFFFFF)](https://x.com/saddam_dev?t=tQedyTczGDVXk8MHLXviMQ&s=09)
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/saddam-saku)
+[![X](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png&color=FFFFFF)](https://x.com/saddam_dev)
 
 ## 🏅 Badges
 
